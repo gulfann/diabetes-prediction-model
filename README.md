@@ -1,4 +1,4 @@
-### Project Report: Diabetes Prediction with SVM
+# Project Report: Diabetes Prediction with SVM
 Diabetes prediction with SVM, focusing on class imbalance and recall improvement.
 ## Dataset Overview
 
